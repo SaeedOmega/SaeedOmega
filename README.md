@@ -36,9 +36,10 @@
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-| My github statistics                                                                                                                                                   | My languages                                                                                                                                                                          | Streaks                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=SaeedOmega&show_icons=true&theme=radical&hide_title=true)](https://github.com/SaeedOmega) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/SaeedOmega) | ![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=SaeedOmega&theme=radical) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=MehranMohamadi&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <hr>
 
