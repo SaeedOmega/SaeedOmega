@@ -25,7 +25,11 @@
 <br>
  
 <br>
+<h2 align="center">My Github Stats</h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=SaeedOmega&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
@@ -34,12 +38,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaeedOmega&theme=radical&margin-w=40&margin-h=40)](https://github.com/SaeedOmega)
 
 <p align="center">
- <h2 align="center">My Github Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=SaeedOmega&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 
 <hr>
 
