@@ -21,7 +21,7 @@
 <h3 align="center"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 Technologies</h3>
 <br>
 <div align="center"> 
-  <img href="https://www.w3schools.com/css/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img href="https://www.w3schools.com/css/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img href="https://git-scm.com/"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img href="https://www.w3.org/html/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
