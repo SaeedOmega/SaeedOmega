@@ -4,14 +4,15 @@
 
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=FFC300&center=true&vCenter=true&width=900&height=110&lines=Saeed+Saadatifar;Age+23;FrontEnd+Developer;Vue+and+React;Programmer+and+Gamer;From+Iran)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=FFC300&center=true&vCenter=true&width=900&height=110&lines=Saeed+Saadatifar;Age+26;FullStack+Developer;Vue+and+React;Programmer+and+Gamer;From+Iran)](https://git.io/typing-svg)
 
 <br>
 <br>
 
-- 🌱 I’m currently learning **Vue, React**
-- 💬 Ask me about **Vue,React,HTML,CSS,...**
+- 🌱 I’m currently learning **Java, Oracle Apex, PL/SQL**
+- 💬 Ask me about **Vue,React,NestJS,NextJS,NuxtJS,...**
 - 🌐 Visit My Web www.Saeed-Saadatifar.ir
+      Another Link www.Saeed.liara.run
 - 📫 Reach me at **Saeednitro2017@gmail.com**
 - 🚢 Open source contributor
 - 🤝 Always open for cooperation
