@@ -36,8 +36,6 @@
   <img href="https://www.oracle.com/apex/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img href="https://www.java.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
-
-  <img href="https://github.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> 
   <img href="https://vuejs.org/" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
  <img href="https://tailwindcss.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </div>
 <br>
