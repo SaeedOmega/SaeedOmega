@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java, Oracle Apex, PL/SQL**
 - 💬 Ask me about **Vue,React,NestJS,NextJS,NuxtJS,...**
 - 🌐 Visit My Web www.Saeed-Saadatifar.ir
-      Another Link www.Saeed.liara.run
+  Another Link www.Saeed.liara.run
 - 📫 Reach me at **Saeednitro2017@gmail.com**
 - 🚢 Open source contributor
 - 🤝 Always open for cooperation
@@ -32,6 +32,11 @@
   <img href="https://nestjs.com/"  src="https://logo.svgcdn.com/devicon/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
   <img href="https://www.postgresql.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img href="https://www.mongodb.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://redis.io/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://www.oracle.com/apex/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://www.java.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+
   <img href="https://github.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> 
   <img href="https://vuejs.org/" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
  <img href="https://tailwindcss.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </div>
@@ -43,6 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SaeedOmega&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <br>
 <p align="center">
