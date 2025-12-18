@@ -31,9 +31,9 @@
   <img href="https://reactjs.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img href="https://nestjs.com/"  src="https://logo.svgcdn.com/devicon/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
   <img href="https://www.postgresql.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img href="https://www.mongodb.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img href="https://redis.io/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img href="https://www.oracle.com/apex/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://www.mongodb.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img href="https://redis.io/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img href="https://www.oracle.com/apex/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img href="https://www.java.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
 
