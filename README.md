@@ -29,8 +29,9 @@
   <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <img href="https://nodejs.org"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img href="https://reactjs.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img href="https://nestjs.com/"  src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
-  <img href="https://nestjs.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://nestjs.com/"  src="https://logo.svgcdn.com/devicon/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
+  <img href="https://www.postgresql.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img href="https://www.mongodb.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img href="https://github.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> 
   <img href="https://vuejs.org/" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
  <img href="https://tailwindcss.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </div>
