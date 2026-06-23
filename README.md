@@ -1,66 +1,93 @@
-<div align="center">
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="50px" >, I'm Saeed Saadatifar</h1>
-</div>
-
-<div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=FFC300&center=true&vCenter=true&width=900&height=110&lines=Saeed+Saadatifar;Age+26;FullStack+Developer;Vue+and+React;Programmer+and+Gamer;From+Iran)](https://git.io/typing-svg)
-
-<br>
-<br>
-
-- 🌱 I’m currently learning **Java, Oracle Apex, PL/SQL**
-- 💬 Ask me about **Vue,React,NestJS,NextJS,NuxtJS,...**
-- 🌐 Visit My Web www.Saeed-Saadatifar.ir
-  Another Link www.Saeed.liara.run
-- 📫 Reach me at **Saeednitro2017@gmail.com**
-- 🚢 Open source contributor
-- 🤝 Always open for cooperation
-- ❤️ Games 🎮, Code 💻 and Eat 🍔
-
-</div>
-<br>
-<h3 align="center"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 Technologies</h3>
-<br>
-<div align="center"> 
-  <img href="https://www.w3schools.com/css/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img href="https://git-scm.com/"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img href="https://www.w3.org/html/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  <img href="https://nodejs.org"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img href="https://reactjs.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img href="https://nestjs.com/"  src="https://logo.svgcdn.com/devicon/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
-  <img href="https://www.postgresql.org/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img href="https://www.mongodb.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img href="https://redis.io/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img href="https://www.oracle.com/apex/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img href="https://www.java.com/"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-  <img href="https://vuejs.org/" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
- <img href="https://tailwindcss.com/"  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </div>
-<br>
- 
-<br>
-<div align="center">
-  <h2 align="center">My Github Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=SaeedOmega&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<br>
-<p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaeedOmega&theme=radical&margin-w=40&margin-h=40)](https://github.com/SaeedOmega)
+<h1 align="center">Saeed Saadatifar</h1>
+<p align="center">Full-Stack Developer | Backend-Focused</p>
 
 <p align="center">
-
-<hr>
-
-<p align="center"> 
-  Visitor Count<br>
-<img src="https://profile-counter.glitch.me/SaeedOmega/count.svg" />
+  <a href="https://saeed-saadatifar.ir">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/saeed-saadatifar">LinkedIn</a> •
+  <a href="https://github.com/SaeedOmega">GitHub</a> •
+  <a href="mailto:saeednitro2017@gmail.com">Email</a>
 </p>
+
+---
+
+## About Me
+
+Backend-focused Full-Stack Developer based in Neyshabour, Iran.  
+I build scalable web applications with TypeScript, Node.js, and NestJS, while also working with modern frontend frameworks like React, Next.js, Vue, and Nuxt.  
+My focus is on clean architecture, secure authentication, API design, database modeling, and maintainable code.
+
+---
+
+## Tech Stack
+
+### Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxt" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="reactnative" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="45" height="45" />
+</p>
+
+### Tools & Testing
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
+</p>
+
+---
+
+## Current Focus
+
+- Backend architecture with NestJS
+- Scalable API design
+- Authentication and authorization systems
+- Database modeling and performance
+- Dockerized development environments
+
+---
+
+## Featured Projects
+
+### Noorolsadaeh Loan Fund Management System
+**Role:** Full-Stack Developer  
+**Stack:** Next.js, NestJS, PostgreSQL, Redis, JWT, TailwindCSS, ShadCN  
+Built a financial management platform for a small loan fund to manage installments, balances, and loans.
+
+### Vakili Silver E-Commerce Platform
+**Role:** Full-Stack Developer  
+**Stack:** Next.js, NestJS, PostgreSQL, Redis, JWT, TailwindCSS, ShadCN  
+Developing an advanced silver trading and e-commerce platform with shopping cart, ticketing, order management, and payment workflows.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeedOmega&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedOmega&layout=compact&theme=transparent&hide_border=true&title_color=007acc" height="170" />
+</div>
+
+---
+
+## Contact
+
+- Portfolio: https://saeed-saadatifar.ir
+- LinkedIn: https://www.linkedin.com/in/saeed-saadatifar
+- GitHub: https://github.com/SaeedOmega
+- Email: saeednitro2017@gmail.com
